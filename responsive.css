@@ -1,4 +1,4 @@
-@madia(max-width: 1000px) {
+@media(max-width: 1000px) {
   .headcontainer h1 {
     font-weight: normal;
   }
