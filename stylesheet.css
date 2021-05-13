@@ -1,3 +1,7 @@
 .headcontainer {
   background-color: green;
 }
+
+.footcontainer {
+  background-color: inherit;
+}
