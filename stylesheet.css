@@ -1,4 +1,4 @@
 .headcontainer {
-  height: 30px;
+  height: inherit;
   background-color: green;
 }
