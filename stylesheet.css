@@ -9,5 +9,7 @@
 
 .footcontainer {
   background-color: black;
+}
+.footcontainer p {
   color: white;
 }
