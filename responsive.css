@@ -1,5 +1,5 @@
 @madia(max-width: 1000px) {
-  h1 {
+  .headcontainer h1 {
     font-weight: normal;
   }
 }
