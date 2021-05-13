@@ -2,6 +2,10 @@
   background-color: green;
 }
 
+.bodycontainer {
+  text-align: center;
+}
+
 .footcontainer {
   background-color: inherit;
 }
