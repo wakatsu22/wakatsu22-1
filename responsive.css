@@ -4,6 +4,8 @@
   }
   .topmenu {
     display: none;
-    icon
   }
+  .menudots {
+    float: right;
+    }
 }
