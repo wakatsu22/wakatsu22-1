@@ -2,6 +2,10 @@
   background-color: green;
 }
 
+.topmenu {
+  width: 20%;
+}
+
 .bodycontainer {
   text-align: center;
 }
