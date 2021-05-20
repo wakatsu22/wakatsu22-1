@@ -1,18 +1,30 @@
+.clear {
+  clear: both;
+}
+
 .headcontainer {
   background-color: rgb(130, 190, 20);
 }
 
+.title {
+  text-shadow: 2px 2px 2px gray;
+}
+
 .menubar {
-  text-align: center;
+  background-color: red;
+  margin:0 auto;
+  width: 80%;
 }
 
 .topmenu {
+  margin: auto;
   background-color: rgba(100, 100, 100, 1);
   color: rgba(0, 0, 0, 0.75);
-  float: left;
   text-align: center;
-  width: 10%;
-  border: 2px solid rgba(0, 0, 0, 0.75);
+  float: left;
+  width: 20%;
+  border: 1px solid rgba(0, 0, 0, 0.4);
+
 }
 
 .menudots {
