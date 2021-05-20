@@ -35,6 +35,23 @@
   border: 1px solid rgba(0, 0, 0, 0.4);
 
 }
+.bodycontainer {
+  border: 2px solid black;
+}
+
+.maincontents {
+  background-color: red;
+  background-size: cover;
+  float: left;
+  width: 70%;
+}
+
+.subcontents {
+  background-color: blue;
+  background-size: cover;
+  float: right;
+  width: 30%
+}
 
 .menudots {
   display: none;
