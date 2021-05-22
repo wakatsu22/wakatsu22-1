@@ -6,6 +6,7 @@
     display: none;
   }
   .menudots {
+    display: inline-block;
     float: right;
     font-size: 5px;
     }
