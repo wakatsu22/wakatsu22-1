@@ -18,6 +18,7 @@
   }
 
   .menubar {
+    display: none;
     background-color: gray;
     text-align: center;
   }
