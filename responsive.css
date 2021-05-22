@@ -11,6 +11,7 @@
 
   .headcontainer {
     background-color: rgb(130, 190, 20);
+    font-size: 10px;
   }
 
   .title {
@@ -59,6 +60,7 @@
   .menudots {
     display: initial;
     float: right;
+    font-size: 10px;
   }
 
   .bodycontainer {
