@@ -1,4 +1,9 @@
 @media(max-width: 1000px) {
+
+  .all {
+    padding: 0;
+  }
+  
   .headcontainer h1 {
     font-weight: normal;
   }
