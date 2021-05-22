@@ -2,8 +2,9 @@
 
   .all {
     padding: 0;
+    box-sizing: initial;
   }
-  
+
   .headcontainer h1 {
     font-weight: normal;
   }
