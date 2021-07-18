@@ -40,14 +40,14 @@
 }
 
 .maincontents {
-  background-color: red;
+  -background-color: red;-
   background-size: cover;
   float: left;
   width: 70%;
 }
 
 .subcontents {
-  background-color: blue;
+  -background-color: blue;-
   background-size: cover;
   float: right;
   width: 30%
